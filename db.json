@@ -1,0 +1,105 @@
+{
+  "issues": [
+    {
+      "name": "The employee number 20189999 wrongly displayed as 20183949",
+      "severity": "Major",
+      "status": "Closed",
+      "createdDate": "2022-02-02",
+      "resolvedDate": "2022-02-03",
+      "id": 2,
+      "issuecount": 1
+    },
+    {
+      "name": "Personal Data tab not loading in portal",
+      "severity": "Minor",
+      "status": "Open",
+      "createdDate": "2021-03-01",
+      "resolvedDate": "2021-03-05",
+      "issuecount": 8,
+      "id": 3
+    },
+    {
+      "name": "expense claims portal crashed",
+      "severity": "Major",
+      "status": "Closed",
+      "createdDate": "2021-04-01",
+      "resolvedDate": "2021-04-06",
+      "id": 4,
+      "issuecount": 3
+    },
+    {
+      "name": "tt ",
+      "severity": "Critical",
+      "status": "Open",
+      "createdDate": "2021-12-04",
+      "resolvedDate": "2021-12-04",
+      "issuecount": 0,
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "emailid": "karthik.brichgunj@gmail.com",
+      "password": "test@123",
+      "firstname": "Karthik Raja",
+      "lastname": "G",
+      "location": "Chennai",
+      "mobile_number": 9679527837
+    },
+    {
+      "id": 2,
+      "emailid": "harish.g@gmail.com",
+      "password": "test@7878",
+      "firstname": "Harish",
+      "lastname": "M",
+      "location": "Bangalore",
+      "mobile_number": 9531936887
+    },
+    {
+      "id": 3,
+      "emailid": "sandhya.99@gmail.com",
+      "password": "test@99",
+      "firstname": "Sandhya",
+      "lastname": "S",
+      "location": "Pune",
+      "mobile_number": 9840263810
+    },
+    {
+      "emailid": "shanthi7878@gmail.com",
+      "password": "abc123",
+      "firstname": "shanthi",
+      "lastname": "g",
+      "location": "Chennai",
+      "mobile_number": "9933270695",
+      "id": 4
+    },
+    {
+      "emailid": "suryaprakash2@gmail.com",
+      "password": "surya@7878",
+      "firstname": "surya prakash",
+      "lastname": "g",
+      "location": "Gurgaon",
+      "mobile_number": "9841024685",
+      "id": 5
+    },
+    {
+      "emailid": "rajnish.lochab2@gmail.com",
+      "password": "rajnish123",
+      "firstname": "Rajnish",
+      "lastname": "Lochab",
+      "location": "Gurgaon",
+      "mobile_number": "9876411928",
+      "id": 6
+    },
+    {
+      "emailid": "gajendran.p@gmail.com",
+      "password": "test@04",
+      "firstname": "Gajendran",
+      "lastname": "P",
+      "location": "Kolkata",
+      "mobile_number": 9933258730,
+      "id": 7
+    }
+  ]
+}

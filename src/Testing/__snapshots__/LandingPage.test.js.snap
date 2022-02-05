@@ -1,0 +1,137 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Landing Page render correctly 1`] = `
+<Suspense
+  fallback={
+    <p>
+      Loading.. Please Wait
+    </p>
+  }
+>
+  <BrowserRouter>
+    <div>
+      <Links />
+      <Switch>
+        <Route
+          component={
+            Object {
+              "$$typeof": Symbol(react.lazy),
+              "_init": [Function],
+              "_payload": Object {
+                "_result": [Function],
+                "_status": -1,
+              },
+            }
+          }
+          path="/issue/:id/:name/:severity/:status/:createdDate/:resolvedDate"
+        />
+        <Route
+          component={
+            Object {
+              "$$typeof": Symbol(react.lazy),
+              "_init": [Function],
+              "_payload": Object {
+                "_result": [Function],
+                "_status": -1,
+              },
+            }
+          }
+          path="/issue2"
+        />
+        <Route
+          component={
+            Object {
+              "$$typeof": Symbol(react.lazy),
+              "_init": [Function],
+              "_payload": Object {
+                "_result": [Function],
+                "_status": -1,
+              },
+            }
+          }
+          path="/addIssue"
+        />
+        <Route
+          component={
+            Object {
+              "$$typeof": Symbol(react.memo),
+              "WrappedComponent": [Function],
+              "compare": null,
+              "type": [Function],
+            }
+          }
+          path="/signup"
+        />
+        <Route
+          component={
+            Object {
+              "$$typeof": Symbol(react.lazy),
+              "_init": [Function],
+              "_payload": Object {
+                "_result": [Function],
+                "_status": -1,
+              },
+            }
+          }
+          path="/update/:id"
+        />
+        <Route
+          component={
+            Object {
+              "$$typeof": Symbol(react.lazy),
+              "_init": [Function],
+              "_payload": Object {
+                "_result": [Function],
+                "_status": -1,
+              },
+            }
+          }
+          path="/regdetails"
+        />
+        <Route
+          component={
+            Object {
+              "$$typeof": Symbol(react.lazy),
+              "_init": [Function],
+              "_payload": Object {
+                "_result": [Function],
+                "_status": -1,
+              },
+            }
+          }
+          path="/deleteIssue"
+        />
+        <Route
+          component={
+            Object {
+              "$$typeof": Symbol(react.lazy),
+              "_init": [Function],
+              "_payload": Object {
+                "_result": [Function],
+                "_status": -1,
+              },
+            }
+          }
+          path="/chart"
+        />
+        <Route
+          path="/login"
+          render={[Function]}
+        />
+        <Route
+          path="/"
+          render={[Function]}
+        />
+        <Redirect
+          from="/about-us"
+          to="/about"
+        />
+        <Redirect
+          from="/about-wipro"
+          to="/about"
+        />
+      </Switch>
+    </div>
+  </BrowserRouter>
+</Suspense>
+`;
